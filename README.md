@@ -29,11 +29,20 @@ The main objective was to apply advanced data visualization techniques to commun
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free).
 3. Open the file to interact with the filters and visualizations.
 
-##  Images
+##  Dashboards
 
+Here are the interactive dashboards created for this project:
+
+### Main Overview
 ![Front Page](Page1.png)
+
+### Countries Analysis
 ![Countries Page](Page2.png)
+
+### Trends by Decades
 ![Decades Page](Page3.png)
+
+### Satellite Uses
 ![Uses Page](Page4.png)
 
 ##  Author
