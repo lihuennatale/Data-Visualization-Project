@@ -31,10 +31,10 @@ The main objective was to apply advanced data visualization techniques to commun
 
 ##  Images
 
-![Front Page](Page 1.png)
-![Countries Page](Page 2.png)
-![Decades Page](Page 3.png)
-![Uses Page](Page 4.png)
+![Front Page](Page1.png)
+![Countries Page](Page2.png)
+![Decades Page](Page3.png)
+![Uses Page](Page4.png)
 
 ##  Author
 
