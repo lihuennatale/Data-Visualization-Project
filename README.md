@@ -29,6 +29,13 @@ The main objective was to apply advanced data visualization techniques to commun
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Free).
 3. Open the file to interact with the filters and visualizations.
 
+##  Images
+
+![Front Page](Page 1.png)
+![Countries Page](Page 2.png)
+![Decades Page](Page 3.png)
+![Uses Page](Page 4.png)
+
 ##  Author
 
 **Lihuén Natale** Astronomy Student at **Universidad Nacional de La Plata (UNLP)**.  
